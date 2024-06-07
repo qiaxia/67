@@ -18,7 +18,7 @@ let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://drive.google.com/file/d/1LbYZwplvpyLi7GHjKoboelwmLTJKfc4w/view?usp=drive_link', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/ansoncloud8/am-tunnel/dev/ipv4.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/qiaxia/67/main/ipv6.txt', //IPv6优选内容格式 自行搭建。
 ];
 
